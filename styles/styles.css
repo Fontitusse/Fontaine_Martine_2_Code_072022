@@ -94,7 +94,7 @@ color:#0065FC;
 .rechercher {
   position: absolute;
   width:30%;
-  height:5%;
+  height:7%;
   margin-top:20px;
   border: #DEEBFF solid thin;
   border-radius: 9px;
@@ -814,7 +814,7 @@ footer .texte a {
 
   .rechercher {
    width:80%;
-	height:5%;
+	height:10%;
    }
 
  .search button {
@@ -862,15 +862,15 @@ footer .texte a {
    }
 
    .filtres .economique, .filtres .famillial {
-     margin-right:4%;
+     margin-right:2%;
    }
 
   .filtres .economique {
-    width:48%;
+    width:46%;
   }
   
   .filtres .famillial {
-    width:35%;
+    width:34%;
   }
 
   .filtres .romantique {
