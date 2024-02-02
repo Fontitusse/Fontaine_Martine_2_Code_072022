@@ -814,7 +814,7 @@ footer .texte a {
 
   .rechercher {
    width:80%;
-	height:7%;
+	height:5%;
    }
 
  .search button {
@@ -862,15 +862,15 @@ footer .texte a {
    }
 
    .filtres .economique, .filtres .famillial {
-     margin-right:2%;
+     margin-right:4%;
    }
 
   .filtres .economique {
-    width:46%;
+    width:48%;
   }
   
   .filtres .famillial {
-    width:34%;
+    width:35%;
   }
 
   .filtres .romantique {
@@ -884,7 +884,7 @@ footer .texte a {
   }
 	
 	.plus_populaires {
-	width:115%;
+	width:107%;
 	background-color:#F2F2F2;
 	box-shadow: none;
 	margin-left:-60px;
@@ -918,15 +918,3 @@ footer .texte a {
   
     
 }
-
-@media only screen and (max-width: 380px)
-{ 	.plus_populaires {
-	width:130%;
-	background-color:#F2F2F2;
-	box-shadow: none;
-	margin-left:-60px;
-	margin-right:-60px;
-	padding-left:40px;
-	padding-right:50px;
-	}
-	}
