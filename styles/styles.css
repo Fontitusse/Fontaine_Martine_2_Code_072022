@@ -94,7 +94,7 @@ color:#0065FC;
 .rechercher {
   position: absolute;
   width:30%;
-  height:7%;
+  height:5%;
   margin-top:20px;
   border: #DEEBFF solid thin;
   border-radius: 9px;
@@ -814,7 +814,7 @@ footer .texte a {
 
   .rechercher {
    width:80%;
-	height:10%;
+	height:7%;
    }
 
  .search button {
@@ -918,3 +918,15 @@ footer .texte a {
   
     
 }
+
+@media only screen and (max-width: 380px)
+{ 	.plus_populaires {
+	width:130%;
+	background-color:#F2F2F2;
+	box-shadow: none;
+	margin-left:-60px;
+	margin-right:-60px;
+	padding-left:40px;
+	padding-right:50px;
+	}
+	}
